@@ -3,6 +3,7 @@
 import sys
 import argparse
 import transform as tf
+from kfp import dsl
 
 
 def parse_command_line():
